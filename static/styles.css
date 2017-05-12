@@ -1,0 +1,39 @@
+.background{
+ background: url("http://orig12.deviantart.net/34a8/f/2011/170/b/5/city_by_fractalfiend-d3jbbu2.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: responsive;
+  margin: -25px;
+   
+}
+h1{
+  font-family: 'Orbitron', sans-serif;
+  color: #67111A;
+  text-shadow: 3px 3px 3px #DAE5DF;
+  text-size: 200%;
+  padding-top: 10px;
+  padding-left: 50px;
+}
+.quote-box{
+  background-color: #DAE5DF;
+  border-color: #67111A;
+  border-style: solid;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+  padding: 50px;
+  margin-top: 50px;
+  margin-right: 500px;
+  margin-left: 500px;
+  height: responsive;
+}
+#quote{
+  padding: 10px;
+}
+
+#author{
+  padding: 10px;
+}
+
+
+.social-icon{
+  padding: 10px;
+}
